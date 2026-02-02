@@ -10,5 +10,5 @@ for p in player_data:
   print(p['position'])
 
 #Update a players game stats
-pmahomes = player_data[0]['name']
-print(pmahomes)
+pmahomes = player_data[0]
+print(pmahomes['name'])

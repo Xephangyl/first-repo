@@ -1,0 +1,5 @@
+print('Today is April 28th.')
+print('I am feeling trapped in a maze. Constantly looking for a way out.')
+print('By learning to code, I wish to accomplish my freedom.')
+print('Stay disciplined. We can only save ourself.')
+print('🙏')
